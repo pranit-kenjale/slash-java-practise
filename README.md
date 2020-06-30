@@ -1,2 +1,2 @@
-# SlashProject
+# SlashJavaProject
 Java practise programs.
